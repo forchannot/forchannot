@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋,I'm **forchannot**
 
-<!--
-**forchannot/forchannot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓A Chinese Student
+- 📘Preparing for the Postgraduate examinations now
 
-Here are some ideas to get you started:
+## 📖 **Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+
+## 🔮 **Status**
+[![Anurag's GitHub stats](https://github-readme-stats-swart-nine-93.vercel.app/api?username=forchannot&show_icons=true&theme=react)](https://github.com/forchannot/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-swart-nine-93.vercel.app/api/top-langs/?username=forchannot&layout=compact)](https://github.com/forchannot/github-readme-stats)
+
+
